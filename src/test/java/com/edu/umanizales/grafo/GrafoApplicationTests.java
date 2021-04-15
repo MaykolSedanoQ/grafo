@@ -1,4 +1,4 @@
-package com.edu.unmanizales.grafo;
+package com.edu.umanizales.grafo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
